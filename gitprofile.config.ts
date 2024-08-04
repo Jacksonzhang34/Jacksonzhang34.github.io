@@ -124,16 +124,16 @@ const CONFIG = {
   ],
   educations: [
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2015',
-      to: '2019',
+      institution: 'Massachusetts Institute of Technology',
+      degree: `Master's Degree in Computer Science`,
+      from: '2020',
+      to: '2024',
     },
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2012',
-      to: '2014',
+      institution: 'Massachusetts Institute of Technology',
+      degree: `Bachelor's Degree in Computer Science`,
+      from: '2024',
+      to: '2025',
     },
   ],
   publications: [
